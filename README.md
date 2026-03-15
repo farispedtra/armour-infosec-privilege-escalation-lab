@@ -22,7 +22,7 @@ Result:
 Discovered target IP: 192.168.56.102
 
 Screenshot:
-screenshots/01-network-scan.png
+![Network Scan](screenshots/network-scan.png)
 
 ---
 
